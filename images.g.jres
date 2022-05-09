@@ -1,0 +1,135 @@
+{
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAPD/AAAAAAAAwLEAAAD//w8f+wAA/929/B+xAPAbEd29H/sA8BERvRzM8Q8fERHxH73/Dx8REdER+///HxER0RGx//8fERHxH/v///AREb0czbEP8BsR3b0f+wAA/929/B+xAAAA//8PH/sAAAAAAADPsQAAAAAAAPD/AA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "GhostSouth"
+    },
+    "image4": {
+        "data": "hwQMABAAAAAAAP//DwAAAAD/3d37/wAA8BsRER2xDwDwERHRHfv/AB8REfEfwbEPHxERvRwf+w8fERHdHR+x/x8REd27H/v/8BHR3bu////w293dy////wD/3b38AAD/AAD//w8A8A8=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "GhostWest"
+    },
+    "image3": {
+        "data": "hwQMABAAAAAAAP//DwDwDwD/3b38AAD/8Nvd3cv////wEdHdu7///x8REd27H/v/HxER3R0fsf8fERG9HB/7Dx8REfEfwbEP8BER0R37/wDwGxERHbEPAAD/3d37/wAAAAD//w8AAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "GhostEast"
+    },
+    "image5": {
+        "data": "hwQMAAgAAAAAMDEAADAxAAAyIQAAMiEAABMxAiATEQIgEREDEhERIRIRESESEREhEhERISAREQI=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "PlayerShotEast"
+    },
+    "image6": {
+        "data": "hwQIAAwAAAAgIgIAAAAAABIRMSIAAAAAERERMSIzAAAREREREREAABEREREzMwAAERERMyIAAAASESECAAAAACAiAgAAAAAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "PlayerShotNorth"
+    },
+    "image7": {
+        "data": "hwQMAAgAAAAgERECEhERIRIRESESEREhEhERISAREQMgExECABMxAgAyIQAAMiEAADAxAAAwMQA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "PlayerShotWest"
+    },
+    "image8": {
+        "data": "hwQIAAwAAAAAAAAgIgIAAAAAIhMRIQAAMyITERERAAAREREREREAADMzEREREQAAACIzERERAAAAACASESEAAAAAACAiAgAA",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "PlayerShotSouth"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAPD/AAAAAAAAwLEAAAD//w8f+wAA/929/P+xAPAbEd29//8A8BER0d38/w8fERER3f3//x8RERHR/f//HxEREd39//8fERER3fv/D/AREdHd/P8P8BsR3b3//wAA/929/P+/AAAA//8PH/sAAAAAAADPsQAAAAAAAPD/AA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "GhostNorth"
+    },
+    "image10": {
+        "data": "hwQMABAAAAAAAP//DwAAAAD/3d37/wAA8BsRER2xDwDwERHR//v/AB8REdHLwbEPHxER3R0f+w8fERHdHR+x/x8REd27H/v/8BHR3bu////w293dy////wD/3b38AAD/AAD//w8A8A8=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "GhostSouthWest"
+    },
+    "image9": {
+        "data": "hwQMABAAAAAAAP///wAAAAD/3d37/wAA8BsRERH7AADwEfEf0f//AB8RsRzRz7EPHxEREd0f+w8fERER3R+x/x8REd3dH/v/8BHR3bu////w293dy////wD/3b38AAD/AAD//w8A8A8=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "GhostNorthWest"
+    },
+    "image11": {
+        "data": "hwQMABAAAAAAAP//DwDwDwD/3b38AAD/8Nvd3cv////wEdHdu7///x8REd3dH/v/HxEREd0fsf8fERER3R/7Dx8RsRzRz7EP8BHxH9H//wDwGxEREfsAAAD/3d37/wAAAAD///8AAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "GhostNorthEast"
+    },
+    "image12": {
+        "data": "hwQMABAAAAAAAP//DwDwDwD/3b38AAD/8Nvd3cv////wEdHdu7///x8REd27H/v/HxER3R0fsf8fERHdHR/7Dx8REdHLwbEP8BER0f/7/wDwGxERHbEPAAD/3d37/wAAAAD//w8AAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "GhostSouthEast"
+    },
+    "image13": {
+        "data": "hwQIAAgAAAAiIgMAEhECABIRMgASETECIBMRAwAgEQIAACIhAAAAIw==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "PlayerShotNorthWest"
+    },
+    "image15": {
+        "data": "hwQIAAgAAAAyAAAAEiIAACARAgAwETECIBMRIQAjESEAIBEhADAiIg==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "PlayerShotSouthEast"
+    },
+    "image14": {
+        "data": "hwQIAAgAAAAAAAAjAAAiIQAgEQIgExEDEhExAhIRMgASEQIAIiIDAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "PlayerShotNorthEast"
+    },
+    "image16": {
+        "data": "hwQIAAgAAAAAMCIiACARIQAjESEgExEhMBExAiARAgASIgAAMgAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "PlayerShotSouthWest"
+    },
+    "image17": {
+        "data": "hwQMAAwAAAAAAADw/wAAAAAA8O/uDwAAAADf3e3+AAAAAN/d3f4AAADw3d3d/QAAAPDd3d39AAAA8N3R3f0AAADw3RHd/QAAAADfEd39AAAAAN/d3f0AAAAA8N/dDwAAAAAA8P8AAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "GroundSlime"
+    },
+    "image18": {
+        "data": "hwQMAAwAAAAAAADw/wAAAAAA8G9mDwAAAACfmWn2AAAAAJ+ZmfYAAADwmZmZ+QAAAPCZmZn5AAAA8JmRmfkAAADwmRGZ+QAAAACfEZn5AAAAAJ+ZmfkAAAAA8J+ZDwAAAAAA8P8AAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "WaterSlime"
+    },
+    "image19": {
+        "data": "hwQMAAwAAAAAAADw/wAAAAAA8C8iDwAAAABPRCTyAAAAAE9ERPIAAADwRERE9AAAAPBERET0AAAA8ERBRPQAAADwRBFE9AAAAABPEUT0AAAAAE9ERPQAAAAA8E9EDwAAAAAA8P8AAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "FireSlime"
+    },
+    "image20": {
+        "data": "hwQMAAwAAAAAAADw/wAAAAAA8H93DwAAAABfVXX3AAAAAF9VVfcAAADwVVVV9QAAAPBVVVX1AAAA8FVRVfUAAADwVRFV9QAAAABfEVX1AAAAAF9VVfUAAAAA8F9VDwAAAAAA8P8AAAA=",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "ElectricSlime"
+    },
+    "anim3": {
+        "namespace": "myAnimations",
+        "id": "anim3",
+        "mimeType": "application/mkcd-animation",
+        "data": "MmMwMTBjMDAwYzAwMDMwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDBmZmZmMDAwMDAwZmZkZGRkZmYwMGYwZGRkZGRkZGQwZmYwZGRkZDExZDEwZmVmZGRkZDFkZDFmZGVmZGRkZGRkZGRmZGVmZGVkZGRkZGRmZGYwZWVkZGRkZGQwZjAwZmZmZmZmZmYwMDAwZjBmZmZmMGYwMDAwZGZkZGRkZmQwMDAwZGZkZDFkZmQwMGYwZGRkZDFkZDEwZmYwZGRkZDFkZDEwZmVmZGRkZGRkZDFmZGVmZGRkZGRkZGRmZGVmZGVkZGRkZGRmZGYwZGVkZGRkZGQwZmYwZWVkZGRkZGQwZjAwZmZlZWRkZmYwMDAwMDBmZmZmMDAwMDAwMDBmZmZmMDAwMDAwZmZkZGRkZmYwMGYwZGRkZGRkZGQwZmYwZGRkZDExZDEwZmVmZGRkZDFkZDFmZGVmZGRkZGRkZGRmZGVmZGVkZGRkZGRmZGYwZWVkZGRkZGQwZjAwZmZmZmZmZmYwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "displayName": "GroundSlimeAnim"
+    },
+    "anim4": {
+        "namespace": "myAnimations",
+        "id": "anim4",
+        "mimeType": "application/mkcd-animation",
+        "data": "MmMwMTBjMDAwYzAwMDMwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDBmZmZmMDAwMDAwZmY5OTk5ZmYwMGYwOTk5OTk5OTkwZmYwOTk5OTExOTEwZjZmOTk5OTE5OTFmOTZmOTk5OTk5OTlmOTZmOTY5OTk5OTlmOWYwNjY5OTk5OTkwZjAwZmZmZmZmZmYwMDAwZjBmZmZmMGYwMDAwOWY5OTk5ZjkwMDAwOWY5OTE5ZjkwMGYwOTk5OTE5OTEwZmYwOTk5OTE5OTEwZjZmOTk5OTk5OTFmOTZmOTk5OTk5OTlmOTZmOTY5OTk5OTlmOWYwOTY5OTk5OTkwZmYwNjY5OTk5OTkwZjAwZmY2Njk5ZmYwMDAwMDBmZmZmMDAwMDAwMDBmZmZmMDAwMDAwZmY5OTk5ZmYwMGYwOTk5OTk5OTkwZmYwOTk5OTExOTEwZjZmOTk5OTE5OTFmOTZmOTk5OTk5OTlmOTZmOTY5OTk5OTlmOWYwNjY5OTk5OTkwZjAwZmZmZmZmZmYwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "displayName": "WaterSlimeAnim"
+    },
+    "anim1": {
+        "namespace": "myAnimations",
+        "id": "anim1",
+        "mimeType": "application/mkcd-animation",
+        "data": "MmMwMTBjMDAwYzAwMDMwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDBmZmZmMDAwMDAwZmY0NDQ0ZmYwMGYwNDQ0NDQ0NDQwZmYwNDQ0NDExNDEwZjJmNDQ0NDE0NDFmNDJmNDQ0NDQ0NDRmNDJmNDI0NDQ0NDRmNGYwMjI0NDQ0NDQwZjAwZmZmZmZmZmYwMDAwZjBmZmZmMGYwMDAwNGY0NDQ0ZjQwMDAwNGY0NDE0ZjQwMGYwNDQ0NDE0NDEwZmYwNDQ0NDE0NDEwZjJmNDQ0NDQ0NDFmNDJmNDQ0NDQ0NDRmNDJmNDI0NDQ0NDRmNGYwNDI0NDQ0NDQwZmYwMjI0NDQ0NDQwZjAwZmYyMjQ0ZmYwMDAwMDBmZmZmMDAwMDAwMDBmZmZmMDAwMDAwZmY0NDQ0ZmYwMGYwNDQ0NDQ0NDQwZmYwNDQ0NDExNDEwZjJmNDQ0NDE0NDFmNDJmNDQ0NDQ0NDRmNDJmNDI0NDQ0NDRmNGYwMjI0NDQ0NDQwZjAwZmZmZmZmZmYwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "displayName": "FireSlimeAnim"
+    },
+    "anim2": {
+        "namespace": "myAnimations",
+        "id": "anim2",
+        "mimeType": "application/mkcd-animation",
+        "data": "MmMwMTBjMDAwYzAwMDMwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDBmZmZmMDAwMDAwZmY1NTU1ZmYwMGYwNTU1NTU1NTUwZmYwNTU1NTExNTEwZjdmNTU1NTE1NTFmNTdmNTU1NTU1NTVmNTdmNTc1NTU1NTVmNWYwNzc1NTU1NTUwZjAwZmZmZmZmZmYwMDAwZjBmZmZmMGYwMDAwNWY1NTU1ZjUwMDAwNWY1NTE1ZjUwMGYwNTU1NTE1NTEwZmYwNTU1NTE1NTEwZjdmNTU1NTU1NTFmNTdmNTU1NTU1NTVmNTdmNTc1NTU1NTVmNWYwNTc1NTU1NTUwZmYwNzc1NTU1NTUwZjAwZmY3NzU1ZmYwMDAwMDBmZmZmMDAwMDAwMDBmZmZmMDAwMDAwZmY1NTU1ZmYwMGYwNTU1NTU1NTUwZmYwNTU1NTExNTEwZjdmNTU1NTE1NTFmNTdmNTU1NTU1NTVmNTdmNTc1NTU1NTVmNWYwNzc1NTU1NTUwZjAwZmZmZmZmZmYwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "displayName": "ElectricSlimeAnim"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
